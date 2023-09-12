@@ -19,7 +19,7 @@ public class Main {
 
     }
 
-    public static double calcHypotenuse(double x, double y) {
+    static double calcHypotenuse(double x, double y) {
         return Math.sqrt((x * x) + (y * y));
     }
 
